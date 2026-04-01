@@ -1,7 +1,7 @@
 #  Luca Piovezan
 **`Desenvolvedor Front-end`**
 **`Web designer`**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=282828&width=435&lines=Desenvolvedor+Front-End;Web+Designer;Estudante+de+TI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=282828&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Luca!+%F0%9F%91%8B;Desenvolvedor+Front-End+%F0%9F%92%BB;Web+Designer+%F0%9F%8E%A8;Estudante+de+TI+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 
 Olá! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
