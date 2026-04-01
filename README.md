@@ -107,11 +107,9 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
 /> 
 <br/><br/>
 
----
+--
 
-### 📊 Estatísticas
 
-colocar dps com auxilio do seutoba
 
 <br/>
 
