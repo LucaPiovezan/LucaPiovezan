@@ -1,31 +1,38 @@
-# Luca Piovezan
+#  Luca Piovezan
 **`Desenvolvedor Front-end`**
 **`Web designer`**
 
-Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
+Olá! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
 
-### Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
-### Mobile
+###  Front-End
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="GSAP" title="GSAP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg"/>
+<br><br>
+
+###  Mobile
 <img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Swift" title="Swift" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
-<br>
+<br><br>
 
-### Back-End
+###  Back-End
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<br>
+<br><br>
 
-### Dados
+###  Dados
 <img align="left" alt="MySql" title="MySql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<br>
+<br><br>
 
-### Ferramentas de Desenvolvimento
+###  Ferramentas de Desenvolvimento
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <br/><br/>
+<br/>
 <br/>
 <br/>
 
