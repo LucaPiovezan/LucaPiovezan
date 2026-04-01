@@ -27,13 +27,8 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <br/><br/>
 <br/>
-
-### 📊 Estatísticas
 <br/>
 
-![LucaPiovezan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPiovezan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPiovezan&layout=compact&theme=tokyonight)
 
 ### 📫 Entre em contato
 <p>
