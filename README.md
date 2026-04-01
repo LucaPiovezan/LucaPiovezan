@@ -29,7 +29,6 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
 <br/>
 <br/>
 
-
 ### 📫 Entre em contato
 <p>
     <a href="mailto:lucapiovezan4@gmail.com" target="_blank">
