@@ -9,7 +9,7 @@ Olá! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso 
 ###  Front-End
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="GSAP" title="GSAP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg"/>
+<img align="left" alt="GSAP" title="GSAP" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black"/>
 <br><br>
 
 ###  Mobile
