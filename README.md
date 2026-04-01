@@ -5,7 +5,6 @@
 
 Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
 
- ---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -89,14 +88,7 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Github" 
-    title="Github"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Figma" 
@@ -111,7 +103,6 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
 
 <br/>
 
----
 
 ### 📫 Entre em contato
 
@@ -122,9 +113,7 @@ Olá👋! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Cu
     <a href="https://br.linkedin.com/in/luca-piovezan-6967aa3b4" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
     </a>
-    <a href="https://github.com/LucaPiovezan" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
-    </a>
+  
 </p>
 
 <br/>
