@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luca Piovezan
+#Luca Piovezan
 **`Desenvolvedor Front-end`**
 **`Web designer`**
 
