@@ -7,7 +7,7 @@
 
 </div>
 
-Olá! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
+Olá! Me chamo Luca Piovezan, tenho 17 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software e desenvolvimento front-end. Tenho grande interesse em seguir carreira como desenvolvedor Web Designer, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
 
 ###  Linguagens e Tecnologias
 
