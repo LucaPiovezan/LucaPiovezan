@@ -58,7 +58,6 @@ Olá! Me chamo Luca Piovezan, tenho 16 anos e sou estudante do 3º ano do Curso 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaPiovezan/LucaPiovezan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaPiovezan/LucaPiovezan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucaPiovezan/LucaPiovezan/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p>
