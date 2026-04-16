@@ -43,14 +43,7 @@ Olá! Me chamo Luca Piovezan, tenho 17 anos e sou estudante do 3º ano do Curso 
 <br/>
 <br/>
 <br/>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucaPiovezan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPiovezan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaPiovezan&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
+
 
 ### 📫 Entre em contato
 <p>
