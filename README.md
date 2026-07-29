@@ -7,12 +7,14 @@
 <br>
 
 ```bash
-Nome      Luca Piovezan Figueredo
-Curso     Dev Web & Mobile @ Cotemig
-Conclusão Dezembro de 2026
+Nome     : Luca Piovezan Figueredo
+Curso    : Técnico em TI — Dev Web & Mobile @ Cotemig
+Conclusão: Dezembro de 2026
 ```
 
 Transformo ideias em experiências digitais, unindo **design criativo** e **código limpo**.
+
+> *"O código é poesia. O design é alma."*
 
 <br>
 
@@ -22,6 +24,7 @@ Transformo ideias em experiências digitais, unindo **design criativo** e **cód
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GSAP-0D0D0D?style=flat-square&logo=greensock&logoColor=E8501A" height="26" style="margin-bottom:6px"/>
 </div>
@@ -60,6 +63,7 @@ Transformo ideias em experiências digitais, unindo **design criativo** e **cód
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucaPiovezan&theme=radical&hide_border=true&background=0D0D0D&ring=E8501A&fire=E8501A&currStreakLabel=E8501A)](https://git.io/streak-stats)
 
 </div>
 
