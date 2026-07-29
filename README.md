@@ -78,7 +78,6 @@ Transformo ideias em experiências digitais, unindo **design criativo** e **cód
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LucaPiovezan&color=E8501A&style=flat-square&label=VISITAS)
 
 </div>
 
