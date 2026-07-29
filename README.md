@@ -60,7 +60,6 @@ Transformo ideias em experiências digitais, unindo **design criativo** e **cód
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucaPiovezan&theme=radical&hide_border=true&background=0D0D0D&ring=E8501A&fire=E8501A&currStreakLabel=E8501A)](https://git.io/streak-stats)
 
 </div>
 
