@@ -7,14 +7,12 @@
 <br>
 
 ```bash
-Nome     : Luca Piovezan Figueredo
-Curso    : Técnico em TI — Dev Web & Mobile @ Cotemig
-Conclusão: Dezembro de 2026
+Nome      Luca Piovezan Figueredo
+Curso     Dev Web & Mobile @ Cotemig
+Conclusão Dezembro de 2026
 ```
 
 Transformo ideias em experiências digitais, unindo **design criativo** e **código limpo**.
-
-> *"O código é poesia. O design é alma."*
 
 <br>
 
