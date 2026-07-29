@@ -8,7 +8,7 @@
 
 ```bash
 Nome      Luca Piovezan Figueredo
-Curso     Técnico em TI — Dev Web & Mobile @ Cotemig
+Curso     Dev Web & Mobile @ Cotemig
 Conclusão Dezembro de 2026
 ```
 
