@@ -21,16 +21,6 @@ Desenvolvedor com experiência real de entrega: sou **co-fundador da [Marco Um](
 
 Construo interfaces em **React**, APIs em **Python (Flask)** e **C#**, e aplicativos em **Flutter**. Estudo Técnico em Informática (Dev Web & Mobile) no **Cotemig**.
 
-<br>
-
-## O que levo para um time
-
-- **Entrega de ponta a ponta:** já conduzi projetos do modelo de dados à interface, com prazo e cliente cobrando
-- **Comunicação com quem não é técnico:** traduzo necessidade de negócio em requisitos e telas
-- **Autonomia:** tomo decisões de arquitetura e de produto como sócio de uma empresa, e sei trabalhar com revisão e feedback
-- **Visão de produto:** me importo com usabilidade, performance e com o problema que o software resolve
-
-<br>
 
 ## Experiência
 
