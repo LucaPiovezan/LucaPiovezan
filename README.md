@@ -8,12 +8,8 @@
 
 ```bash
 Nome      Luca Piovezan Figueredo
-Curso     Dev Web & Mobile @ Cotemig
 Conclusão Dezembro de 2026
 ```
-
-Transformo ideias em experiências digitais, unindo **design criativo** e **código limpo**.
-
 
 <br>
 
@@ -53,12 +49,7 @@ Transformo ideias em experiências digitais, unindo **design criativo** e **cód
 
 <br>
 
-<div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucaPiovezan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=E8501A&icon_color=E8501A&text_color=EDEDED"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPiovezan&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=E8501A&text_color=EDEDED"/>
-
-</div>
 
 <div align="center">
 
