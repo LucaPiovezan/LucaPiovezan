@@ -4,7 +4,7 @@
 
 **Desenvolvedor Front-end e Full-stack Júnior · Web e Mobile**
 
-![Status](https://img.shields.io/badge/Aberto%20a%20oportunidades-E8501A?style=for-the-badge&labelColor=0D0D0D)
+
 
 Formatura em dezembro de 2026 · Belo Horizonte, MG
 
